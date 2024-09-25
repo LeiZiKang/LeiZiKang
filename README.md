@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LeiZiKang
 - 👀 I’m interested in swift
-- 🌱 I’m currently learning IOS dev
-- // 💞️ I’m looking to collaborate on ...
+- 🌱 I’m a IOS dev
 - 📫 How to reach me on 2801225199@qq.com
 
 <!---
