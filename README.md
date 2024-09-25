@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeiZiKang
-- 👀 I’m interested in swift
+- 👀 I’m interested in swift6.0
 - 🌱 I’m a IOS dev
 - 📫 How to reach me on 2801225199@qq.com
 
