@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeiZiKang
+- 👋 Hi, I’m @Levi
 - 🌱 I’m a IOS dev
 - 📫 reach me on lzkhaoshua@gmail.com
 
