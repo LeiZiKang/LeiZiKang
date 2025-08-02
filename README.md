@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Levi
-- 🌱 I’m a IOS dev
+- 🌱 I’m a IOS developer
 - 📫 reach me on lzkhaoshua@gmail.com
 
 <!---
