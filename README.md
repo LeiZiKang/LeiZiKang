@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Levi
-- 🌱 I’m a IOS developer
+- 🌱 I’m a IOS && FullStack developer
 - 📫 reach me on lzkhaoshua@gmail.com
 
 <!---
