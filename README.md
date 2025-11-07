@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Levi
 - 🌱 I’m a IOS && FullStack developer
-- 📫 reach me on lzkhaoshua@gmail.com
+- 📫 reach me on cjdxlzk@163.com
 
 <!---
 LeiZiKang/LeiZiKang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
