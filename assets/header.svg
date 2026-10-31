@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="230" viewBox="0 0 860 230" role="img" aria-label="Levi Lei — iOS and full-stack TypeScript engineer. Write the code. Change the world.">
+  <defs>
+    <linearGradient id="motto" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7cc4ff"/>
+      <stop offset="0.5" stop-color="#b48cff"/>
+      <stop offset="1" stop-color="#ff8ab8"/>
+      <animate attributeName="x1" values="0;-1;0" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;2;1" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="c1"><rect class="t t1" x="40" y="66" height="30"/></clipPath>
+    <clipPath id="c2"><rect class="t t2" x="40" y="96" height="30"/></clipPath>
+    <clipPath id="c3"><rect class="t t3" x="40" y="136" height="30"/></clipPath>
+    <clipPath id="c4"><rect class="t t4" x="40" y="166" height="44"/></clipPath>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+      .prompt { fill: #6ee7a8; font-size: 16px; }
+      .cmd { fill: #e6edf3; font-size: 16px; }
+      .out { fill: #9aa7b4; font-size: 16px; }
+      .big { font-size: 30px; font-weight: 700; }
+      .t { width: 0; }
+      .t1 { animation: type1 0.9s steps(11) 0.4s forwards; }
+      .t2 { animation: type2 0.6s steps(30) 1.5s forwards; }
+      .t3 { animation: type3 1.0s steps(16) 2.4s forwards; }
+      .t4 { animation: type4 1.8s steps(33) 3.6s forwards; }
+      @keyframes type1 { to { width: 120px; } }
+      @keyframes type2 { to { width: 760px; } }
+      @keyframes type3 { to { width: 170px; } }
+      @keyframes type4 { to { width: 640px; } }
+      .cursor { opacity: 0; animation: show 0s 5.4s forwards, blink 1s steps(1) 5.4s infinite; }
+      @keyframes show { to { opacity: 1; } }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="859" height="229" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <circle cx="26" cy="24" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="24" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="24" r="6" fill="#28c840"/>
+  <text x="430" y="29" text-anchor="middle" class="mono" font-size="13" fill="#6e7681">levi@shanghai — zsh</text>
+
+  <g class="mono">
+    <text x="40" y="86" clip-path="url(#c1)"><tspan class="prompt">~ $ </tspan><tspan class="cmd">whoami</tspan></text>
+    <text x="40" y="116" clip-path="url(#c2)" class="out">Levi Lei · iOS &amp; full-stack TypeScript · 5 Mac apps on the App Store</text>
+    <text x="40" y="156" clip-path="url(#c3)"><tspan class="prompt">~ $ </tspan><tspan class="cmd">echo $MOTTO</tspan></text>
+    <text x="40" y="198" clip-path="url(#c4)" class="big" fill="url(#motto)">Write the code. Change the world.</text>
+    <rect class="cursor" x="642" y="174" width="15" height="30" fill="#e6edf3"/>
+  </g>
+</svg>
