@@ -39,14 +39,29 @@
 </tr>
 </table>
 
-### 🤖 Agent tooling I use every day
+### ✍️ Engineering write-ups
 
-| Repo | What it does |
-|---|---|
-| [**job-agent-kit**](https://github.com/LeiZiKang/job-agent-kit) | Clone, open Claude Code, say "set me up" — an agent-driven job search |
-| [**agent-memory**](https://github.com/LeiZiKang/agent-memory) | Plain-file project memory shared by Claude Code and Codex |
-| [**codex-delegate**](https://github.com/LeiZiKang/codex-delegate) | Claude directs, Codex executes, Claude reviews |
-| [**clawd-usage-weather**](https://github.com/LeiZiKang/clawd-usage-weather) | A hopping Clawd and a usage forecast above your prompt |
+Production problems from client work, and what I did about them.
+
+**Backend & infrastructure**
+- [Moving push notifications to FCM topics](https://levi-blog.pages.dev/blog/fcm-topic-push-en/) — Node.js push for a membership app; the hard part was keeping subscriptions in sync
+- [When a service can't reach Redis](https://levi-blog.pages.dev/blog/azure-redis-nat-en/) — Azure VNet integration quietly changed the outbound IP
+- [Load-testing an API with JMeter](https://levi-blog.pages.dev/blog/jmeter-load-test-en/) — one plan, three profiles, and a real database bug hiding in the errors
+
+**iOS**
+- [Three levels of modularizing an old UIKit project](https://levi-blog.pages.dev/blog/uikit-modularization-en/) — components, view models, packages · [demo repo](https://github.com/LeiZiKang/uikit-modularization-demo)
+- [CocoaPods → SPM, and then back again](https://levi-blog.pages.dev/blog/cocoapods-spm-rollback-en/) — planning a migration vs. planning how to land it
+- [An API mock kit on URLProtocol](https://levi-blog.pages.dev/blog/api-mock-kit-en/) — building screens before the backend exists
+- [A global double-tap guard with method swizzling](https://levi-blog.pages.dev/blog/swizzling-duplicate-taps/) — and the crash I only found on re-testing
+
+<sub>[All posts on the blog →](https://levi-blog.pages.dev/)</sub>
+
+### 🤖 How I work with AI
+
+I build with Claude Code and Codex every day, and open-source the pieces that stuck:
+
+- [**agent-memory**](https://github.com/LeiZiKang/agent-memory) — plain-file project memory shared by Claude Code and Codex
+- [**codex-delegate**](https://github.com/LeiZiKang/codex-delegate) — Claude directs and reviews, Codex builds
 
 ### 🧰 Stack
 
