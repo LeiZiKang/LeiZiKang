@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="mailto:levileiwork@outlook.com"><img src="https://img.shields.io/badge/Open_to_new_roles-Shanghai_%2F_Remote-2ea043?style=flat-square" alt="Open to new roles"></a> <a href="https://leizikang.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-leizikang.github.io-7cc4ff?style=flat-square" alt="Portfolio"></a> <a href="https://levi-blog.pages.dev"><img src="https://img.shields.io/badge/Blog-levi--blog-b48cff?style=flat-square" alt="Blog"></a> <a href="mailto:levileiwork@outlook.com"><img src="https://img.shields.io/badge/Email-levileiwork%40outlook.com-ff8ab8?style=flat-square" alt="Email"></a>
+<a href="mailto:levileiwork@outlook.com"><img src="https://img.shields.io/badge/Open_to_new_roles-Shanghai_%2F_Remote-2ea043?style=flat-square" alt="Open to new roles"></a> <a href="https://leizikang.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-leizikang.github.io-7cc4ff?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAiLz48L3N2Zz4%3D" alt="Portfolio"></a> <a href="https://levi-blog.pages.dev"><img src="https://img.shields.io/badge/Blog-levi--blog-b48cff?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMjBoOSIvPjxwYXRoIGQ9Ik0xNi41IDMuNWEyLjEgMi4xIDAgMCAxIDMgM0w3IDE5bC00IDEgMS00WiIvPjwvc3ZnPg%3D%3D" alt="Blog"></a> <a href="https://www.linkedin.com/in/levi-lei-mobile/"><img src="https://img.shields.io/badge/LinkedIn-levi--lei--mobile-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAyLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4Wk01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMyAyLjA2IDIuMDYgMCAwIDEgMCA0LjEzWk03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1Wk0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjczdjIwLjU0QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzNWMS43M0MyNCAuNzcgMjMuMiAwIDIyLjIyIDBaIi8%2BPC9zdmc%2B" alt="LinkedIn"></a> <a href="https://x.com/LKang37857"><img src="https://img.shields.io/badge/X-%40LKang37857-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="mailto:levileiwork@outlook.com"><img src="https://img.shields.io/badge/Email-levileiwork%40outlook.com-ff8ab8?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48cmVjdCB4PSIyIiB5PSI0IiB3aWR0aD0iMjAiIGhlaWdodD0iMTYiIHJ4PSIyIi8%2BPHBhdGggZD0ibTIyIDYtMTAgN0wyIDYiLz48L3N2Zz4%3D" alt="Email"></a>
 
 </div>
 
@@ -27,8 +27,9 @@
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Shipped on the Mac App Store
+### 🚀 Shipped Mac apps
 
+- [**Linger**](https://linger-lyrics.pages.dev/) — synced desktop lyrics <sub>(free, notarized download · public beta)</sub>
 - [**MindNotes**](https://apps.apple.com/app/id6819075811) — quick capture notes
 - [**Voltyn**](https://leizikang.github.io/voltyn-site/) — power & battery monitor
 - [**Glasswitch**](https://apps.apple.com/app/id6809678536) — default browser switcher <sub>(extends an open-source project)</sub>
