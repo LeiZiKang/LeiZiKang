@@ -29,7 +29,7 @@
 
 ### 🚀 Shipped Native Apps
 
-- [**Linger**](https://linger-lyrics.pages.dev/) — synced desktop lyrics <sub>(v0.9.6 · Swift 6 strict concurrency · notarized download)</sub>
+- [**Linger**](https://linger.levicraft.app/) — floating desktop lyrics with Metal aurora & XDR HDR <sub>(v1.0.2 · Swift 6 + Metal · notarized download)</sub>
 - [**Voltyn**](https://voltyn.pages.dev/en/) — Apple Silicon power & battery monitor <sub>(Mac App Store · WidgetKit + IOKit)</sub>
 - [**Glasswitch**](https://glasswitch.pages.dev/) — default browser switcher <sub>(Mac App Store · Liquid Glass + Sandbox)</sub>
 - [**MindNotes**](https://apps.apple.com/app/id6819075811) — floating Markdown quick-capture <sub>(Mac App Store)</sub>
